@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "izFagm/NYwn1RQ6BqZgASAKsgDuI/dVJMiEhLQnSBwWA5ni6I7XugB6cvMv1cNbxFttc2HR9NCD1hYfZ7Od07A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sterlingn\\Desktop\\JsonLogParser (8)\\JsonLogParser\\JsonLogParser\\JsonLogParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sterlingn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

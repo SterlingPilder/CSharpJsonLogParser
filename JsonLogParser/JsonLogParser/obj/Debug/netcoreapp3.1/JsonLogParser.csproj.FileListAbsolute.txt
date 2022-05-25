@@ -1,0 +1,32 @@
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.exe
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.deps.json
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.runtimeconfig.json
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.runtimeconfig.dev.json
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.dll
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.pdb
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.csproj.AssemblyReference.cache
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.AssemblyInfoInputs.cache
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.AssemblyInfo.cs
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.csproj.CoreCompileInputs.cache
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.csproj.CopyComplete
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.dll
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.pdb
+C:\Users\jozol\source\repos\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.genruntimeconfig.cache
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.exe
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.deps.json
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.runtimeconfig.json
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.runtimeconfig.dev.json
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.dll
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\JsonLogParser.pdb
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.csproj.AssemblyReference.cache
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.AssemblyInfoInputs.cache
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.AssemblyInfo.cs
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.csproj.CoreCompileInputs.cache
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.csproj.CopyComplete
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.dll
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.pdb
+C:\Users\sterlingn\Desktop\JsonLogParser (8)\JsonLogParser\JsonLogParser\obj\Debug\netcoreapp3.1\JsonLogParser.genruntimeconfig.cache
